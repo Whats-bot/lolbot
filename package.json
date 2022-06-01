@@ -38,4 +38,12 @@
         "ytdl": "^1.4.1"
     },
     "devDependencies": {}
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+  },
+  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
 }
